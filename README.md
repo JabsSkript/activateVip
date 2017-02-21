@@ -18,6 +18,8 @@ For enable/disable the lines remove or put # at the beginning of the line! :
 #send "&5%player% &ftornou-se &5(Mago)"
 ```
 
+[Download here](https://github.com/JabsSkript/activateVip/blob/master/activateVip_runing.sk) 
+
 ### This skript depends:
 
  * [Skript](http://dev.bukkit.org/bukkit-plugins/skript/) for runing this script
