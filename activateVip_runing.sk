@@ -1,0 +1,28 @@
+# https://github.com/JonathanBeia
+# Para ativar as permissions basta remover a '#' que está no começo da linha.
+command /vipativadomago:
+  #permission: ativarvip.mago
+	trigger:
+		send "&5%player% &ftornou-se &5(Mago)"
+		make the command sender execute "/title @a title &5%player%"
+		make the command sender execute "/title @a subtitle Tornou-se_&5(Mago)"
+		make the command sender execute "/title @a times 20 100 20"
+		stop
+
+command /vipativadoarqueiro:
+  #permission: ativarvip.arqueiro
+	trigger:
+		send "&a%player% &ftornou-se &a(Arqueiro)"
+		make the command sender execute "/title @a title &a%player%"
+		make the command sender execute "/title @a subtitle Tornou-se_&a(Arqueiro)"
+		make the command sender execute "/title @a times 20 100 20"
+		stop
+
+command /vipativadoguerreiro:
+  #permission: ativarvip.guerreiro
+	trigger:
+		send "&6%player% &ftornou-se &6(Guerreiro)"
+		make the command sender execute "/title @a title &6%player%"
+		make the command sender execute "/title @a subtitle Tornou-se_&6(Guerreiro)"
+		make the command sender execute "/title @a times 20 100 20"
+		stop
