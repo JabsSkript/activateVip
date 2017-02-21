@@ -6,6 +6,7 @@ Feature list:
  * Enable/Disable require permissions
  * Enable/Disable vips chat announcement
  * Fully editable
+ * This idea is from MikePT
 
 For enable/disable the lines remove or put # at the beginning of the line! :
 
